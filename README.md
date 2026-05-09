@@ -17,5 +17,5 @@ Visualizations:
 
 
 # files
-README.md
-fullcode.ipynb
+- README.md
+- fullcode.ipynb

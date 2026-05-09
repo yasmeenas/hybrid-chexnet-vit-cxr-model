@@ -1,6 +1,8 @@
 # Hybrid CNN-ViT Model for Chest X-Ray Classification and Interpretation
 Intro. CV Final Project Yasmeen Shabazz
 
+data: https://www.kaggle.com/datasets/nih-chest-xrays/sample/data 
+
 CheXNet Reimplementation based on An Open-Source Reproduction and Enhancement of CheXNet for Chest X-ray Disease Classification https://arxiv.org/abs/2505.06646
 - https://github.com/dstrick17/DacNet/blob/main/scripts/replicate_chexnet.py
 
